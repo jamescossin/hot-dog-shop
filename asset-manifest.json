@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hot-dog-shop/static/js/main.cbaf4f5b.js",
+    "index.html": "/hot-dog-shop/index.html",
+    "main.cbaf4f5b.js.map": "/hot-dog-shop/static/js/main.cbaf4f5b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cbaf4f5b.js"
+  ]
+}
